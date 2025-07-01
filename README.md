@@ -1,1 +1,2 @@
 # Task5
+This project focuses on building Decision Tree and Random Forest classifiers using the Heart Disease dataset. The models are trained to classify whether a person is likely to have heart disease based on various medical features. The Decision Tree is visualized, pruned to prevent overfitting, and compared against a Random Forest. Model performance is evaluated using accuracy scores and cross-validation. Feature importance is also analyzed to understand key predictors. Python, Scikit-learn, and visualization libraries like Matplotlib and Seaborn are used throughout.
